@@ -1,0 +1,36 @@
+body{
+    height: 722px;
+    background: linear-gradient(500deg, rgb(34, 209, 142), rgb(182, 185, 10));
+}
+.heading{
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    text-transform: uppercase;
+}
+.form{
+    margin-top: 60px;
+    text-align: center;
+    font-size: 30px;
+}
+.currValue{
+    color: white;
+    padding: 3px;
+    text-align: center;
+}
+.prev{
+    color: black;
+    text-align: center;
+}
+.submit{
+    cursor:grab;
+}
+footer{
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+}
